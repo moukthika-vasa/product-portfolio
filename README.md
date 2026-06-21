@@ -17,8 +17,8 @@ Identified faculty scheduling pain point at USC Darla Moore. Built dynamic Excel
 ### 3. Accenture Enterprise System Enablement
 8 years bridging business and IT stakeholders across SAP implementations in finance, operations, and supply chain. Requirements gathering, UAT, process automation, change management.
 
-### 4. Pearson Higher Education Product Proposal *(Coming Soon)*
-Product improvement proposal for Pearson MyLab platform.
+### 4. Pearson MyLab — Closing the Confidence Gap
+DMAIC-based product improvement proposal identifying a gap in MyLab's confidence intelligence system. Proposes 3 workstreams to close the loop between confidence data collection and meaningful student intervention. File: Pearson_MyLab_Product_Improvement_Proposal_MoukthikaVasa.pdf
 
 ### 5. Supply Chain Analytics Dashboard *(Coming Soon)*
 Power BI dashboard built on Kaggle supply chain dataset.
