@@ -20,8 +20,12 @@ Identified faculty scheduling pain point at USC Darla Moore. Built dynamic Excel
 ### 4. Pearson MyLab — Closing the Confidence Gap
 DMAIC-based product improvement proposal identifying a gap in MyLab's confidence intelligence system. Proposes 3 workstreams to close the loop between confidence data collection and meaningful student intervention. File: Pearson_MyLab_Product_Improvement_Proposal_MoukthikaVasa.pdf
 
-### 5. Supply Chain Analytics Dashboard *(Coming Soon)*
-Power BI dashboard built on Kaggle supply chain dataset.
+### 5. Retail Performance Analytics Dashboard
+Power BI dashboard analyzing 540,000 retail transactions across 38 countries. 
+Covers revenue trends, market prioritization, product portfolio analysis, 
+and customer purchase behavior segmentation.
+Tools: Power BI, DAX, Python
+File: RetailAnalytics_ProductInsights_MoukthikaVasa.pdf
 
 ## Contact
 - Email: mvasa@email.sc.edu
